@@ -4,9 +4,9 @@ The goal is to dictate text and commands from an Android device to a PC with a H
 
 For this they use:
 
-An Android application written as a DroidScript script
+An Android application written as a DroidScript http://droidscript.org/ script
 
-An Arduino with HID like leonardo, pro micro, feather etc.
+An Arduino with HID like leonardo, pro micro, feather etc. https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le
 
 A ￼JY-MCU Bluetooth device connected to the Arduino for serial communication.
 
