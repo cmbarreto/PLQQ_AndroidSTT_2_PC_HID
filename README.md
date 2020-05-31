@@ -12,3 +12,8 @@ A ￼JY-MCU Bluetooth device connected to the Arduino for serial communication.
 
 The application on the arduino that processes the words received from the Android.
 
+Instructions:
+
+The hardware is simply the Arduino connected to the JY-MCU Bluetooth across the TX and RX ports of both.
+
+This hardware is connected by usb to the pc, in the same way as it is done to program it.
